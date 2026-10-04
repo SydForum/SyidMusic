@@ -1,9 +1,9 @@
 package com.syidmusic.innertube.models.response
 
-import com.syidmusic.innertube.models.AccountInfo
-import com.syidmusic.innertube.models.Runs
-import com.syidmusic.innertube.models.Thumbnails
-import com.syidmusic.innertube.models.Thumbnail
+import com.metrolist.innertube.models.AccountInfo
+import com.metrolist.innertube.models.Runs
+import com.metrolist.innertube.models.Thumbnails
+import com.metrolist.innertube.models.Thumbnail
 import kotlinx.serialization.Serializable
 
 @Serializable

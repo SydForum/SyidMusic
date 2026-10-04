@@ -1,6 +1,6 @@
 package com.syidmusic.innertube.pages
 
-import com.syidmusic.innertube.models.AlbumItem
+import com.metrolist.innertube.models.AlbumItem
 
 data class ExplorePage(
     val newReleaseAlbums: List<AlbumItem>,

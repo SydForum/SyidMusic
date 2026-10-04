@@ -1,6 +1,6 @@
 package com.syidmusic.innertube.pages
 
-import com.syidmusic.innertube.models.YTItem
+import com.metrolist.innertube.models.YTItem
 
 data class LibraryContinuationPage(
     val items: List<YTItem>,

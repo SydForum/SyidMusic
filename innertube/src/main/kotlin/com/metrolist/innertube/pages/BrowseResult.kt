@@ -1,9 +1,9 @@
 package com.syidmusic.innertube.pages
 
-import com.syidmusic.innertube.models.YTItem
-import com.syidmusic.innertube.models.filterExplicit
-import com.syidmusic.innertube.models.filterVideoSongs
-import com.syidmusic.innertube.models.filterYoutubeShorts
+import com.metrolist.innertube.models.YTItem
+import com.metrolist.innertube.models.filterExplicit
+import com.metrolist.innertube.models.filterVideoSongs
+import com.metrolist.innertube.models.filterYoutubeShorts
 
 data class BrowseResult(
     val title: String?,

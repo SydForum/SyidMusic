@@ -1,12 +1,12 @@
 package com.syidmusic.innertube
 
-import com.syidmusic.innertube.models.MediaInfo
-import com.syidmusic.innertube.models.ReturnYouTubeDislikeResponse
-import com.syidmusic.innertube.models.YouTubeClient
-import com.syidmusic.innertube.models.YouTubeLocale
-import com.syidmusic.innertube.models.response.NextResponse
-import com.syidmusic.innertubex.InnerTube as InnerTubeX
-import com.syidmusic.innertubex.InnerTubeHttpException
+import com.metrolist.innertube.models.MediaInfo
+import com.metrolist.innertube.models.ReturnYouTubeDislikeResponse
+import com.metrolist.innertube.models.YouTubeClient
+import com.metrolist.innertube.models.YouTubeLocale
+import com.metrolist.innertube.models.response.NextResponse
+import com.metrolist.innertubex.InnerTube as InnerTubeX
+import com.metrolist.innertubex.InnerTubeHttpException
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.engine.okhttp.OkHttp

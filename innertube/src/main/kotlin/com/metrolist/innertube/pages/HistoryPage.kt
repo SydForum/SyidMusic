@@ -1,12 +1,12 @@
 package com.syidmusic.innertube.pages
 
-import com.syidmusic.innertube.models.Album
-import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
-import com.syidmusic.innertube.models.MusicShelfRenderer
-import com.syidmusic.innertube.models.SongItem
-import com.syidmusic.innertube.models.getItems
-import com.syidmusic.innertube.models.splitBySeparator
-import com.syidmusic.innertube.utils.parseTime
+import com.metrolist.innertube.models.Album
+import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
+import com.metrolist.innertube.models.MusicShelfRenderer
+import com.metrolist.innertube.models.SongItem
+import com.metrolist.innertube.models.getItems
+import com.metrolist.innertube.models.splitBySeparator
+import com.metrolist.innertube.utils.parseTime
 
 data class HistoryPage(
     val sections: List<HistorySection>?,

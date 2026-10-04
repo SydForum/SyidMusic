@@ -1,6 +1,6 @@
 package com.syidmusic.innertube.pages
 
-import com.syidmusic.innertube.models.SongItem
+import com.metrolist.innertube.models.SongItem
 
 data class PlaylistContinuationPage(
     val songs: List<SongItem>,

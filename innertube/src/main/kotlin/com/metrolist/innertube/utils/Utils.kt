@@ -1,8 +1,8 @@
 package com.syidmusic.innertube.utils
 
-import com.syidmusic.innertube.YouTube
-import com.syidmusic.innertube.pages.LibraryPage
-import com.syidmusic.innertube.pages.PlaylistPage
+import com.metrolist.innertube.YouTube
+import com.metrolist.innertube.pages.LibraryPage
+import com.metrolist.innertube.pages.PlaylistPage
 import java.security.MessageDigest
 
 @JvmName("completedLibrary")

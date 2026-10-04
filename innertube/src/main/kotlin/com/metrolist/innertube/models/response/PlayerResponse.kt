@@ -1,7 +1,7 @@
 package com.syidmusic.innertube.models.response
 
-import com.syidmusic.innertube.models.ResponseContext
-import com.syidmusic.innertube.models.Thumbnails
+import com.metrolist.innertube.models.ResponseContext
+import com.metrolist.innertube.models.Thumbnails
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 

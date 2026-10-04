@@ -1,6 +1,6 @@
 package com.syidmusic.innertube.models.response
 
-import com.syidmusic.innertube.models.PlaylistPanelRenderer
+import com.metrolist.innertube.models.PlaylistPanelRenderer
 import kotlinx.serialization.Serializable
 
 @Serializable

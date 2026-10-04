@@ -1,18 +1,18 @@
 package com.syidmusic.innertube.models.response
 
-import com.syidmusic.innertube.models.Button
-import com.syidmusic.innertube.models.Continuation
-import com.syidmusic.innertube.models.GridRenderer
-import com.syidmusic.innertube.models.Menu
-import com.syidmusic.innertube.models.MusicDetailHeaderRenderer
-import com.syidmusic.innertube.models.MusicEditablePlaylistDetailHeaderRenderer
-import com.syidmusic.innertube.models.MusicShelfRenderer
-import com.syidmusic.innertube.models.ResponseContext
-import com.syidmusic.innertube.models.Runs
-import com.syidmusic.innertube.models.SectionListRenderer
-import com.syidmusic.innertube.models.SubscriptionButton
-import com.syidmusic.innertube.models.Tabs
-import com.syidmusic.innertube.models.ThumbnailRenderer
+import com.metrolist.innertube.models.Button
+import com.metrolist.innertube.models.Continuation
+import com.metrolist.innertube.models.GridRenderer
+import com.metrolist.innertube.models.Menu
+import com.metrolist.innertube.models.MusicDetailHeaderRenderer
+import com.metrolist.innertube.models.MusicEditablePlaylistDetailHeaderRenderer
+import com.metrolist.innertube.models.MusicShelfRenderer
+import com.metrolist.innertube.models.ResponseContext
+import com.metrolist.innertube.models.Runs
+import com.metrolist.innertube.models.SectionListRenderer
+import com.metrolist.innertube.models.SubscriptionButton
+import com.metrolist.innertube.models.Tabs
+import com.metrolist.innertube.models.ThumbnailRenderer
 import kotlinx.serialization.Serializable
 
 @Serializable

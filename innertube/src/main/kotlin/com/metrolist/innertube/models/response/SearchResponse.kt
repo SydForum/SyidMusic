@@ -1,8 +1,8 @@
 package com.syidmusic.innertube.models.response
 
-import com.syidmusic.innertube.models.Continuation
-import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
-import com.syidmusic.innertube.models.Tabs
+import com.metrolist.innertube.models.Continuation
+import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
+import com.metrolist.innertube.models.Tabs
 import kotlinx.serialization.Serializable
 
 @Serializable
