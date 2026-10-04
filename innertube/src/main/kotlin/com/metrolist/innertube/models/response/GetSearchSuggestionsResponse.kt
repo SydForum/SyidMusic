@@ -1,6 +1,6 @@
-package com.metrolist.innertube.models.response
+package com.syidmusic.innertube.models.response
 
-import com.metrolist.innertube.models.SearchSuggestionsSectionRenderer
+import com.syidmusic.innertube.models.SearchSuggestionsSectionRenderer
 import kotlinx.serialization.Serializable
 
 @Serializable

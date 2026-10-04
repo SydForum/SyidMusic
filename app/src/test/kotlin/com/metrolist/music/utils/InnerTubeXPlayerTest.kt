@@ -1,7 +1,7 @@
-package com.metrolist.music.utils
+package com.sydforum.syidmusic.utils
 
-import com.metrolist.innertubex.extraction.PlayerConfig
-import com.metrolist.innertubex.extraction.YtConfigParser
+import com.syidmusic.innertubex.extraction.PlayerConfig
+import com.syidmusic.innertubex.extraction.YtConfigParser
 import kotlinx.coroutines.runBlocking
 import org.junit.After
 import org.junit.Assert.assertEquals

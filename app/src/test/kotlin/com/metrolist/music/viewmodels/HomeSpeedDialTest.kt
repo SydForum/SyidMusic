@@ -1,6 +1,6 @@
-package com.metrolist.music.viewmodels
+package com.sydforum.syidmusic.viewmodels
 
-import com.metrolist.innertube.models.SongItem
+import com.syidmusic.innertube.models.SongItem
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

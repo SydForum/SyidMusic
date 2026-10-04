@@ -1,9 +1,9 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.extensions
+package com.sydforum.syidmusic.extensions
 
 import android.content.ContentProvider
 import android.content.ContentValues

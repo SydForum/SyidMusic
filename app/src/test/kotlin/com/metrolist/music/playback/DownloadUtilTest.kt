@@ -1,4 +1,4 @@
-package com.metrolist.music.playback
+package com.sydforum.syidmusic.playback
 
 import androidx.media3.exoplayer.offline.Download
 import org.junit.Assert.assertEquals

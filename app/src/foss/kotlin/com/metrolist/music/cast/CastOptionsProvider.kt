@@ -1,4 +1,4 @@
-package com.metrolist.music.cast
+package com.sydforum.syidmusic.cast
 
 /**
  * Stub CastOptionsProvider for F-Droid builds.

@@ -1,9 +1,9 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.db
+package com.sydforum.syidmusic.db
 
 import android.app.Application
 import androidx.room.migration.Migration

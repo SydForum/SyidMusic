@@ -1,8 +1,8 @@
-package com.metrolist.music.playback
+package com.sydforum.syidmusic.playback
 
-import com.metrolist.music.db.entities.ArtistEntity
-import com.metrolist.music.db.entities.Song
-import com.metrolist.music.db.entities.SongEntity
+import com.sydforum.syidmusic.db.entities.ArtistEntity
+import com.sydforum.syidmusic.db.entities.Song
+import com.sydforum.syidmusic.db.entities.SongEntity
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue

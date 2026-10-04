@@ -1,13 +1,13 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Artist
-import com.metrolist.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_ARTIST
-import com.metrolist.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_LIBRARY_ARTIST
-import com.metrolist.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_USER_CHANNEL
-import com.metrolist.innertube.models.Menu
-import com.metrolist.innertube.models.MusicResponsiveListItemRenderer.FlexColumn
-import com.metrolist.innertube.models.Run
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Artist
+import com.syidmusic.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_ARTIST
+import com.syidmusic.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_LIBRARY_ARTIST
+import com.syidmusic.innertube.models.BrowseEndpoint.BrowseEndpointContextSupportedConfigs.BrowseEndpointContextMusicConfig.Companion.MUSIC_PAGE_TYPE_USER_CHANNEL
+import com.syidmusic.innertube.models.Menu
+import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer.FlexColumn
+import com.syidmusic.innertube.models.Run
+import com.syidmusic.innertube.utils.parseTime
 
 object PageHelper {
     // Icon types for library management (YouTube changed these in Feb 2026)

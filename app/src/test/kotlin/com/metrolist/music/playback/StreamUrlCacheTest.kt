@@ -1,4 +1,4 @@
-package com.metrolist.music.playback
+package com.sydforum.syidmusic.playback
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.metrolist.innertube"
+    namespace = "com.syidmusic.innertube"
     compileSdk = 37
 
     defaultConfig {

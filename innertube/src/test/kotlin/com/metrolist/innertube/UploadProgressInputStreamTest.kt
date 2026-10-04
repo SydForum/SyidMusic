@@ -1,4 +1,4 @@
-package com.metrolist.innertube
+package com.syidmusic.innertube
 
 import org.junit.Assert.assertArrayEquals
 import org.junit.Assert.assertEquals

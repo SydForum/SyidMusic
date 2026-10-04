@@ -1,3 +1,3 @@
-package com.metrolist.innertube.models
+package com.syidmusic.innertube.models
 
-typealias YouTubeClient = com.metrolist.innertubex.models.YouTubeClient
+typealias YouTubeClient = com.syidmusic.innertubex.models.YouTubeClient

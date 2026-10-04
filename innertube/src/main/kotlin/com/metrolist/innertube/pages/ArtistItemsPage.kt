@@ -1,13 +1,13 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
-import com.metrolist.innertube.models.MusicTwoRowItemRenderer
-import com.metrolist.innertube.models.PlaylistItem
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.models.YTItem
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
+import com.syidmusic.innertube.models.MusicTwoRowItemRenderer
+import com.syidmusic.innertube.models.PlaylistItem
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.models.YTItem
+import com.syidmusic.innertube.utils.parseTime
 
 data class ArtistItemsPage(
     val title: String,

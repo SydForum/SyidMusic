@@ -1,13 +1,13 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.playback.audio
+package com.sydforum.syidmusic.playback.audio
 
 import androidx.media3.common.C
 import androidx.media3.common.audio.AudioProcessor
-import com.metrolist.music.eq.audio.CustomEqualizerAudioProcessor
+import com.sydforum.syidmusic.eq.audio.CustomEqualizerAudioProcessor
 import java.nio.ByteBuffer
 import java.nio.ByteOrder
 import org.junit.Assert.assertArrayEquals

@@ -1,4 +1,4 @@
-package com.metrolist.music.utils
+package com.sydforum.syidmusic.utils
 
 import android.content.Context
 import android.content.ContextWrapper
@@ -8,7 +8,7 @@ import android.graphics.Color
 import android.graphics.drawable.BitmapDrawable
 import android.graphics.drawable.Drawable
 import androidx.test.core.app.ApplicationProvider
-import com.metrolist.music.ui.component.LyricsBackgroundStyle
+import com.sydforum.syidmusic.ui.component.LyricsBackgroundStyle
 import kotlinx.coroutines.runBlocking
 import org.junit.Assert.assertEquals
 import org.junit.Test
@@ -65,6 +65,6 @@ class ComposeToImageTest {
             theme: Theme?,
         ): Drawable = BitmapDrawable(this, Bitmap.createBitmap(1, 1, Bitmap.Config.ARGB_8888))
 
-        override fun getString(id: Int): String = "Metrolist"
+        override fun getString(id: Int): String = "SyidMusic"
     }
 }

@@ -1,24 +1,24 @@
 /**
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.db
+package com.sydforum.syidmusic.db
 
 import android.content.Context
 import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.Artist
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.pages.AlbumPage
-import com.metrolist.music.db.entities.AlbumArtistMap
-import com.metrolist.music.db.entities.AlbumEntity
-import com.metrolist.music.db.entities.ArtistEntity
-import com.metrolist.music.db.entities.SongArtistMap
-import com.metrolist.music.db.entities.SongEntity
-import com.metrolist.music.models.MediaMetadata
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.Artist
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.pages.AlbumPage
+import com.sydforum.syidmusic.db.entities.AlbumArtistMap
+import com.sydforum.syidmusic.db.entities.AlbumEntity
+import com.sydforum.syidmusic.db.entities.ArtistEntity
+import com.sydforum.syidmusic.db.entities.SongArtistMap
+import com.sydforum.syidmusic.db.entities.SongEntity
+import com.sydforum.syidmusic.models.MediaMetadata
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.runBlocking
 import org.junit.After

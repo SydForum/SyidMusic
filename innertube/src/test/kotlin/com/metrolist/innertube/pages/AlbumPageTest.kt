@@ -1,13 +1,13 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.Artist
-import com.metrolist.innertube.models.BrowseEndpoint
-import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
-import com.metrolist.innertube.models.NavigationEndpoint
-import com.metrolist.innertube.models.Run
-import com.metrolist.innertube.models.Runs
-import com.metrolist.innertube.models.WatchEndpoint
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.Artist
+import com.syidmusic.innertube.models.BrowseEndpoint
+import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
+import com.syidmusic.innertube.models.NavigationEndpoint
+import com.syidmusic.innertube.models.Run
+import com.syidmusic.innertube.models.Runs
+import com.syidmusic.innertube.models.WatchEndpoint
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

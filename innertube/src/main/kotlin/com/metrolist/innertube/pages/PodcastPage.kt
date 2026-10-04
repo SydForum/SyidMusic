@@ -1,14 +1,14 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.Artist
-import com.metrolist.innertube.models.EpisodeItem
-import com.metrolist.innertube.models.MusicMultiRowListItemRenderer
-import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
-import com.metrolist.innertube.models.PodcastItem
-import com.metrolist.innertube.models.Run
-import com.metrolist.innertube.models.splitBySeparator
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.Artist
+import com.syidmusic.innertube.models.EpisodeItem
+import com.syidmusic.innertube.models.MusicMultiRowListItemRenderer
+import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
+import com.syidmusic.innertube.models.PodcastItem
+import com.syidmusic.innertube.models.Run
+import com.syidmusic.innertube.models.splitBySeparator
+import com.syidmusic.innertube.utils.parseTime
 
 data class PodcastPage(
     val podcast: PodcastItem,

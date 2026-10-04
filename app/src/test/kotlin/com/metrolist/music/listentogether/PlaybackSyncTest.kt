@@ -1,4 +1,4 @@
-package com.metrolist.music.listentogether
+package com.sydforum.syidmusic.listentogether
 
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue

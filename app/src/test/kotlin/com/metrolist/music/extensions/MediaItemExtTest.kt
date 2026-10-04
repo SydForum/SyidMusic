@@ -1,13 +1,13 @@
 /**
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.extensions
+package com.sydforum.syidmusic.extensions
 
 import androidx.media3.session.MediaConstants.EXTRAS_KEY_IS_EXPLICIT
 import androidx.media3.session.MediaConstants.EXTRAS_VALUE_ATTRIBUTE_PRESENT
-import com.metrolist.music.models.MediaMetadata
+import com.sydforum.syidmusic.models.MediaMetadata
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertNull

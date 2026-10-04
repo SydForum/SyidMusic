@@ -1,23 +1,23 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.ArtistItem
-import com.metrolist.innertube.models.BrowseEndpoint
-import com.metrolist.innertube.models.EpisodeItem
-import com.metrolist.innertube.models.MusicCarouselShelfRenderer
-import com.metrolist.innertube.models.MusicMultiRowListItemRenderer
-import com.metrolist.innertube.models.MusicResponsiveListItemRenderer
-import com.metrolist.innertube.models.MusicTwoRowItemRenderer
-import com.metrolist.innertube.models.PlaylistItem
-import com.metrolist.innertube.models.PodcastItem
-import com.metrolist.innertube.models.SectionListRenderer
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.models.YTItem
-import com.metrolist.innertube.models.splitBySeparator
-import com.metrolist.innertube.models.filterExplicit
-import com.metrolist.innertube.models.filterVideoSongs
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.ArtistItem
+import com.syidmusic.innertube.models.BrowseEndpoint
+import com.syidmusic.innertube.models.EpisodeItem
+import com.syidmusic.innertube.models.MusicCarouselShelfRenderer
+import com.syidmusic.innertube.models.MusicMultiRowListItemRenderer
+import com.syidmusic.innertube.models.MusicResponsiveListItemRenderer
+import com.syidmusic.innertube.models.MusicTwoRowItemRenderer
+import com.syidmusic.innertube.models.PlaylistItem
+import com.syidmusic.innertube.models.PodcastItem
+import com.syidmusic.innertube.models.SectionListRenderer
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.models.YTItem
+import com.syidmusic.innertube.models.splitBySeparator
+import com.syidmusic.innertube.models.filterExplicit
+import com.syidmusic.innertube.models.filterVideoSongs
+import com.syidmusic.innertube.utils.parseTime
 import timber.log.Timber
 
 data class HomePage(

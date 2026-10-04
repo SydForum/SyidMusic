@@ -1,5 +1,5 @@
 
-package com.metrolist.music.betterlyrics
+package com.sydforum.syidmusic.betterlyrics
 
 import org.junit.Test
 import org.junit.Assert.*

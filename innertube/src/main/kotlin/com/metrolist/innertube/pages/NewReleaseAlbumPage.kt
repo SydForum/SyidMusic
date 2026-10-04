@@ -1,7 +1,7 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.MusicTwoRowItemRenderer
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.MusicTwoRowItemRenderer
 
 object NewReleaseAlbumPage {
     fun fromMusicTwoRowItemRenderer(renderer: MusicTwoRowItemRenderer): AlbumItem? {

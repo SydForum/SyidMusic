@@ -1,9 +1,9 @@
-package com.metrolist.innertube.models.response
+package com.syidmusic.innertube.models.response
 
-import com.metrolist.innertube.models.NavigationEndpoint
-import com.metrolist.innertube.models.PlaylistPanelRenderer
-import com.metrolist.innertube.models.Tabs
-import com.metrolist.innertube.models.YouTubeDataPage
+import com.syidmusic.innertube.models.NavigationEndpoint
+import com.syidmusic.innertube.models.PlaylistPanelRenderer
+import com.syidmusic.innertube.models.Tabs
+import com.syidmusic.innertube.models.YouTubeDataPage
 import kotlinx.serialization.Serializable
 
 @Serializable

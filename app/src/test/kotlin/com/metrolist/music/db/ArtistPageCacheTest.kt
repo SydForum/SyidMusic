@@ -1,19 +1,19 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.db
+package com.sydforum.syidmusic.db
 
 import android.content.Context
 import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
-import com.metrolist.music.db.entities.AlbumArtistMap
-import com.metrolist.music.db.entities.AlbumEntity
-import com.metrolist.music.db.entities.ArtistEntity
-import com.metrolist.music.db.entities.SongAlbumMap
-import com.metrolist.music.db.entities.SongArtistMap
-import com.metrolist.music.db.entities.SongEntity
+import com.sydforum.syidmusic.db.entities.AlbumArtistMap
+import com.sydforum.syidmusic.db.entities.AlbumEntity
+import com.sydforum.syidmusic.db.entities.ArtistEntity
+import com.sydforum.syidmusic.db.entities.SongAlbumMap
+import com.sydforum.syidmusic.db.entities.SongArtistMap
+import com.sydforum.syidmusic.db.entities.SongEntity
 import java.time.LocalDateTime
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.runBlocking

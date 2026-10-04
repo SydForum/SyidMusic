@@ -1,9 +1,9 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.ui.player
+package com.sydforum.syidmusic.ui.player
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

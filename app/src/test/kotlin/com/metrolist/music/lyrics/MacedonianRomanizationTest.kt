@@ -1,8 +1,8 @@
-package com.metrolist.music.lyrics
+package com.sydforum.syidmusic.lyrics
 
-import com.metrolist.music.lyrics.LyricsUtils.isMacedonian
-import com.metrolist.music.lyrics.LyricsUtils.romanize
-import com.metrolist.music.lyrics.LyricsUtils.romanizeCyrillic
+import com.sydforum.syidmusic.lyrics.LyricsUtils.isMacedonian
+import com.sydforum.syidmusic.lyrics.LyricsUtils.romanize
+import com.sydforum.syidmusic.lyrics.LyricsUtils.romanizeCyrillic
 import kotlinx.coroutines.runBlocking
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull

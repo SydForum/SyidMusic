@@ -1,9 +1,9 @@
-package com.metrolist.music.utils
+package com.sydforum.syidmusic.utils
 
-import com.metrolist.innertube.models.PlaylistItem
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.pages.PlaylistPage
-import com.metrolist.music.db.entities.PlaylistSongMap
+import com.syidmusic.innertube.models.PlaylistItem
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.pages.PlaylistPage
+import com.sydforum.syidmusic.db.entities.PlaylistSongMap
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

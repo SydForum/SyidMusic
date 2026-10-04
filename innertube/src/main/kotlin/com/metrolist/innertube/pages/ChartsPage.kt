@@ -1,6 +1,6 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.*
+import com.syidmusic.innertube.models.*
 
 data class ChartsPage(
     val sections: List<ChartSection>,

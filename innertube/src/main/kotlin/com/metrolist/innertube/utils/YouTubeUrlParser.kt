@@ -1,4 +1,4 @@
-package com.metrolist.innertube.utils
+package com.syidmusic.innertube.utils
 
 /**
  * Utility class for parsing YouTube and YouTube Music URLs.

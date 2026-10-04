@@ -1,4 +1,4 @@
-package com.metrolist.music.utils
+package com.sydforum.syidmusic.utils
 
 import android.content.Context
 import androidx.test.core.app.ApplicationProvider

@@ -1,7 +1,7 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Artist
-import com.metrolist.innertube.models.Run
+import com.syidmusic.innertube.models.Artist
+import com.syidmusic.innertube.models.Run
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
 import org.junit.Test

@@ -1,9 +1,9 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.BrowseEndpoint
-import com.metrolist.innertube.models.GridRenderer
-import com.metrolist.innertube.models.MusicNavigationButtonRenderer
-import com.metrolist.innertube.models.SectionListRenderer
+import com.syidmusic.innertube.models.BrowseEndpoint
+import com.syidmusic.innertube.models.GridRenderer
+import com.syidmusic.innertube.models.MusicNavigationButtonRenderer
+import com.syidmusic.innertube.models.SectionListRenderer
 
 data class MoodAndGenres(
     val title: String,

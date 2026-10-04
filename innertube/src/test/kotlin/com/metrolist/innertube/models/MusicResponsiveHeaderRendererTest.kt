@@ -1,4 +1,4 @@
-package com.metrolist.innertube.models
+package com.syidmusic.innertube.models
 
 import kotlinx.serialization.json.Json
 import org.junit.Assert.assertTrue

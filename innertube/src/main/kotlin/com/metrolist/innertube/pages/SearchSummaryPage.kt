@@ -1,18 +1,18 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.AlbumItem
-import com.metrolist.innertube.models.ArtistItem
-import com.metrolist.innertube.models.MusicCardShelfRenderer
-import com.metrolist.innertube.models.PlaylistItem
-import com.metrolist.innertube.models.PodcastItem
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.models.YTItem
-import com.metrolist.innertube.models.filterExplicit
-import com.metrolist.innertube.models.filterVideoSongs
-import com.metrolist.innertube.models.filterYoutubeShorts
-import com.metrolist.innertube.models.splitBySeparator
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.AlbumItem
+import com.syidmusic.innertube.models.ArtistItem
+import com.syidmusic.innertube.models.MusicCardShelfRenderer
+import com.syidmusic.innertube.models.PlaylistItem
+import com.syidmusic.innertube.models.PodcastItem
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.models.YTItem
+import com.syidmusic.innertube.models.filterExplicit
+import com.syidmusic.innertube.models.filterVideoSongs
+import com.syidmusic.innertube.models.filterYoutubeShorts
+import com.syidmusic.innertube.models.splitBySeparator
+import com.syidmusic.innertube.utils.parseTime
 
 data class SearchSummary(
     val title: String,

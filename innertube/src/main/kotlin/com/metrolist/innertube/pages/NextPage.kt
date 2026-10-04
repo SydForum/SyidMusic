@@ -1,12 +1,12 @@
-package com.metrolist.innertube.pages
+package com.syidmusic.innertube.pages
 
-import com.metrolist.innertube.models.Album
-import com.metrolist.innertube.models.BrowseEndpoint
-import com.metrolist.innertube.models.PlaylistPanelVideoRenderer
-import com.metrolist.innertube.models.SongItem
-import com.metrolist.innertube.models.WatchEndpoint
-import com.metrolist.innertube.models.splitBySeparator
-import com.metrolist.innertube.utils.parseTime
+import com.syidmusic.innertube.models.Album
+import com.syidmusic.innertube.models.BrowseEndpoint
+import com.syidmusic.innertube.models.PlaylistPanelVideoRenderer
+import com.syidmusic.innertube.models.SongItem
+import com.syidmusic.innertube.models.WatchEndpoint
+import com.syidmusic.innertube.models.splitBySeparator
+import com.syidmusic.innertube.utils.parseTime
 
 data class NextResult(
     val title: String? = null,

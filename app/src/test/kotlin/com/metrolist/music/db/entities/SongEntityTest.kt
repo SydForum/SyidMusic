@@ -1,4 +1,4 @@
-package com.metrolist.music.db.entities
+package com.sydforum.syidmusic.db.entities
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse

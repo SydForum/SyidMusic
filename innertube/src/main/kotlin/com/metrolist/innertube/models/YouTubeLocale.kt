@@ -1,3 +1,3 @@
-package com.metrolist.innertube.models
+package com.syidmusic.innertube.models
 
-typealias YouTubeLocale = com.metrolist.innertubex.models.YouTubeLocale
+typealias YouTubeLocale = com.syidmusic.innertubex.models.YouTubeLocale

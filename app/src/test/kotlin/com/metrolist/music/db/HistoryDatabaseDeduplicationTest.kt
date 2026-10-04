@@ -1,15 +1,15 @@
 /*
- * Metrolist Project (C) 2026
+ * SyidMusic Project (C) 2026
  * Licensed under GPL-3.0 | See git history for contributors
  */
 
-package com.metrolist.music.db
+package com.sydforum.syidmusic.db
 
 import android.content.Context
 import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
-import com.metrolist.music.db.entities.Event
-import com.metrolist.music.db.entities.SongEntity
+import com.sydforum.syidmusic.db.entities.Event
+import com.sydforum.syidmusic.db.entities.SongEntity
 import java.time.DayOfWeek
 import java.time.LocalDate
 import java.time.LocalDateTime

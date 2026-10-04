@@ -1,4 +1,4 @@
-package com.metrolist.music.lyrics
+package com.sydforum.syidmusic.lyrics
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull

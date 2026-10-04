@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="fastlane/metadata/android/en-US/images/icon.png" alt="Metrolist app icon" width="200" />
+<img src="fastlane/metadata/android/en-US/images/icon.png" alt="SyidMusic app icon" width="200" />
 
-# Metrolist
+# SyidMusic
 
 ### YouTube Music client for Android
 
@@ -15,14 +15,14 @@
 <br/>
 <br/>
 
-[![Latest release](https://img.shields.io/github/v/release/MetrolistGroup/Metrolist?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/Metrolist/releases)
-[![License](https://img.shields.io/github/license/MetrolistGroup/metrolist?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/Metrolist/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/MetrolistGroup/Metrolist/total?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/Metrolist/releases)
+[![Latest release](https://img.shields.io/github/v/release/MetrolistGroup/SyidMusic?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/SyidMusic/releases)
+[![License](https://img.shields.io/github/license/MetrolistGroup/syidmusic?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/SyidMusic/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/MetrolistGroup/SyidMusic/total?style=for-the-badge&labelColor=0d1117)](https://github.com/MetrolistGroup/SyidMusic/releases)
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://dsc.gg/metrolist)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/metrolistapp)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://dsc.gg/syidmusic)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/syidmusicapp)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 > [!WARNING]
 > # MAINTENANCE MODE
-> Metrolist is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do not submit PRs for new features or major changes, as they will not be accepted.  
+> SyidMusic is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do not submit PRs for new features or major changes, as they will not be accepted.  
 > The app is **NOT** dead, please stay tuned for updates on our discord (found above).
 
 > [!WARNING]
@@ -141,13 +141,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MetrolistGroup/Metrolist/">
-        <img src="assets/badges/obtainium.svg" alt="Add Metrolist to Obtainium" height="100">
+      <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/MetrolistGroup/SyidMusic/">
+        <img src="assets/badges/obtainium.svg" alt="Add SyidMusic to Obtainium" height="100">
       </a>
     </td>
     <td align="center">
-      <a href="https://apt.izzysoft.de/fdroid/index/apk/com.metrolist.music">
-        <img src="assets/badges/izzyondroid.svg" alt="Get Metrolist on IzzyOnDroid" height="100">
+      <a href="https://apt.izzysoft.de/fdroid/index/apk/com.syidmusic.music">
+        <img src="assets/badges/izzyondroid.svg" alt="Get SyidMusic on IzzyOnDroid" height="100">
       </a>
     </td>
   </tr>
@@ -157,13 +157,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.openapk.net/metrolist/com.metrolist.music/">
-        <img src="assets/badges/openapk.svg" alt="Get Metrolist on OpenAPK" height="100">
+      <a href="https://www.openapk.net/syidmusic/com.syidmusic.music/">
+        <img src="assets/badges/openapk.svg" alt="Get SyidMusic on OpenAPK" height="100">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MetrolistGroup/Metrolist/releases/latest/download/Metrolist.apk">
-        <img src="assets/badges/github-stable.svg" alt="Get the stable Metrolist release on GitHub" height="100">
+      <a href="https://github.com/MetrolistGroup/SyidMusic/releases/latest/download/SyidMusic.apk">
+        <img src="assets/badges/github-stable.svg" alt="Get the stable SyidMusic release on GitHub" height="100">
       </a>
     </td>
   </tr>
@@ -177,8 +177,8 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/MetrolistGroup/Metrolist/releases/download/nightly/Metrolist-with-Google-Cast.apk">
-        <img src="assets/badges/github-nightly.svg" alt="Get the Metrolist nightly build on GitHub" height="120">
+      <a href="https://github.com/MetrolistGroup/SyidMusic/releases/download/nightly/SyidMusic-with-Google-Cast.apk">
+        <img src="assets/badges/github-nightly.svg" alt="Get the SyidMusic nightly build on GitHub" height="120">
       </a>
     </td>
   </tr>
@@ -192,7 +192,7 @@
 
 <h1><a id="faq"></a>FAQ</h1>
 
-<h3>Got questions? Check out our <a href="https://metrolist.cc/#faq">FAQ page</a> for answers to the most common ones.</h3>
+<h3>Got questions? Check out our <a href="https://syidmusic.cc/#faq">FAQ page</a> for answers to the most common ones.</h3>
 
 </div>
 
@@ -202,15 +202,15 @@
 
 <h1><a id="translations"></a>Translations</h1>
 
-[![Translation status](https://img.shields.io/weblate/progress/metrolist?style=for-the-badge&labelColor=0d1117)](https://hosted.weblate.org/engage/metrolist/)
+[![Translation status](https://img.shields.io/weblate/progress/syidmusic?style=for-the-badge&labelColor=0d1117)](https://hosted.weblate.org/engage/syidmusic/)
 
-<h3>We use Weblate to translate Metrolist. <a href="https://hosted.weblate.org/projects/Metrolist/">Help us bring Metrolist to more people!</a></h3>
+<h3>We use Weblate to translate SyidMusic. <a href="https://hosted.weblate.org/projects/SyidMusic/">Help us bring SyidMusic to more people!</a></h3>
 
-<a href="https://hosted.weblate.org/projects/Metrolist/">
-  <img src="https://hosted.weblate.org/widget/Metrolist/horizontal-auto.svg" alt="Translation status" />
+<a href="https://hosted.weblate.org/projects/SyidMusic/">
+  <img src="https://hosted.weblate.org/widget/SyidMusic/horizontal-auto.svg" alt="Translation status" />
 </a>
 
-<h3>Thank you! Every translation makes Metrolist a little more accessible to someone, somewhere in the world.</h3>
+<h3>Thank you! Every translation makes SyidMusic a little more accessible to someone, somewhere in the world.</h3>
 
 </div>
 
@@ -220,7 +220,7 @@
 
 <h1><a id="support-the-project"></a>Support the Project</h1>
 
-<h3>Metrolist is free and open-source. If it brings you joy, consider supporting its development!</h3>
+<h3>SyidMusic is free and open-source. If it brings you joy, consider supporting its development!</h3>
 
 #### Monero (XMR)
 
@@ -244,7 +244,7 @@
 
 <h1>Special Thanks</h1>
 
-<h3>Metrolist stands on the shoulders of incredible open-source work.</h3>
+<h3>SyidMusic stands on the shoulders of incredible open-source work.</h3>
 
 <h3>Main Inspirations</h3>
 
@@ -318,8 +318,8 @@
 
 <h3>This project wouldn't exist without these amazing people!</h3>
 
-<a href="https://github.com/MetrolistGroup/Metrolist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MetrolistGroup/Metrolist" alt="Contributors" />
+<a href="https://github.com/MetrolistGroup/SyidMusic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MetrolistGroup/SyidMusic" alt="Contributors" />
 </a>
 
 </div>
@@ -330,7 +330,7 @@
 
 <h1>Disclaimer</h1>
 
-This project is **not affiliated with, funded, authorized, endorsed by, or in any way associated** with YouTube, Google LLC, Metrolist Group LLC, or any of their affiliates and subsidiaries.
+This project is **not affiliated with, funded, authorized, endorsed by, or in any way associated** with YouTube, Google LLC, SyidMusic Group LLC, or any of their affiliates and subsidiaries.
 
 All trademarks, service marks, and intellectual property rights referenced in this project belong to their respective owners.
 

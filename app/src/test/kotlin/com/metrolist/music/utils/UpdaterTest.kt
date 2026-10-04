@@ -1,4 +1,4 @@
-package com.metrolist.music.utils
+package com.sydforum.syidmusic.utils
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
@@ -17,8 +17,8 @@ class UpdaterTest {
               "body": null,
               "published_at": "2026-09-05T12:00:00Z",
               "assets": [{
-                "name": "Metrolist.apk",
-                "browser_download_url": "https://example.com/Metrolist.apk",
+                "name": "SyidMusic.apk",
+                "browser_download_url": "https://example.com/SyidMusic.apk",
                 "size": 42
               }]
             }
@@ -27,7 +27,7 @@ class UpdaterTest {
 
         assertEquals("1.2.3", release.versionName)
         assertEquals("", release.description)
-        assertEquals("https://example.com/Metrolist.apk", release.assets.single().downloadUrl)
-        assertNull(Updater.parseKmpRelease(response.replace("Metrolist.apk", "Metrolist-with-Google-Cast.apk")))
+        assertEquals("https://example.com/SyidMusic.apk", release.assets.single().downloadUrl)
+        assertNull(Updater.parseKmpRelease(response.replace("SyidMusic.apk", "SyidMusic-with-Google-Cast.apk")))
     }
 }

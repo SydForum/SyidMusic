@@ -1,8 +1,8 @@
-package com.metrolist.music.viewmodels
+package com.sydforum.syidmusic.viewmodels
 
-import com.metrolist.music.db.entities.FormatEntity
-import com.metrolist.music.db.entities.Song
-import com.metrolist.music.db.entities.SongEntity
+import com.sydforum.syidmusic.db.entities.FormatEntity
+import com.sydforum.syidmusic.db.entities.Song
+import com.sydforum.syidmusic.db.entities.SongEntity
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

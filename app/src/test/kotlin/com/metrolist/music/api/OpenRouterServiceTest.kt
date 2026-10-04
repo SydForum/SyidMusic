@@ -1,4 +1,4 @@
-package com.metrolist.music.api
+package com.sydforum.syidmusic.api
 
 import kotlinx.serialization.json.boolean
 import kotlinx.serialization.json.jsonArray

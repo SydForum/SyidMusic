@@ -1,4 +1,4 @@
-package com.metrolist.music.ui.component
+package com.sydforum.syidmusic.ui.component
 
 import android.content.Context
 import android.os.Bundle
@@ -27,10 +27,10 @@ import androidx.mediarouter.app.MediaRouteControllerDialog
 import androidx.mediarouter.app.MediaRouteControllerDialogFragment
 import androidx.mediarouter.app.MediaRouteDialogFactory
 import com.google.android.gms.cast.framework.CastButtonFactory
-import com.metrolist.music.LocalPlayerConnection
-import com.metrolist.music.R
-import com.metrolist.music.constants.EnableGoogleCastKey
-import com.metrolist.music.utils.rememberPreference
+import com.sydforum.syidmusic.LocalPlayerConnection
+import com.sydforum.syidmusic.R
+import com.sydforum.syidmusic.constants.EnableGoogleCastKey
+import com.sydforum.syidmusic.utils.rememberPreference
 
 @Composable
 fun CastButton(
